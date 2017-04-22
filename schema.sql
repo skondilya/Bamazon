@@ -21,5 +21,3 @@ over_head_costs  INTEGER (11) NULL,
 total_sales INTEGER (11) NULL,
 PRIMARY KEY (item_id)
 );
-
-select * from departments;
